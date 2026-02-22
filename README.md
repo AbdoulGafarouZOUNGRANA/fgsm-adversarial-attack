@@ -2,7 +2,7 @@
 
 Hi there! 👋 As someone deeply passionate about the intersection of Artificial Intelligence and Cybersecurity, I've always been fascinated by the vulnerability of deep neural networks. This repo is the result of one of my explorations: how to fool a state-of-the-art AI by subtly modifying a few pixels using math? 🤔
 
-Here, I implement the **FGSM (Fast Gradient Sign Method)** attack on a ResNet50 model using PyTorch. It's crazy to see that by injecting noise specifically calculated from the gradients (often imperceptible to the human eye), you can force a highly performant model to make a completely wrong prediction! 🤯🛡️
+Here,I implement the **FGSM (Fast Gradient Sign Method)** attack on a ResNet50 model using PyTorch. It's crazy to see that by injecting noise specifically calculated from the gradients (often imperceptible to the human eye), you can force a highly performant model to make a completely wrong prediction! 🤯🛡️
 
 🎥 **Watch it in action!** A demo video has already been published on my LinkedIn page. You can check it out directly by following this link: [Watch the Demo on LinkedIn](https://www.linkedin.com/posts/abdoul-gafarou-zoungrana-486280323_intelligenceartificielle-machinelearning-activity-7428907186644492288-UYjE?utm_source=share&utm_medium=member_desktop&rcm=ACoAAFG7UqYBp5RJm-fLA5tLnFigcgVh0cdFuRo)
 
